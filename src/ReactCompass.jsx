@@ -12,7 +12,7 @@
 
 import React from 'react';
 import styleNormalizer from 'react-style-normalizer';
-import './styles';
+// import './styles';
 
 export default class ReactCompass extends React.Component {
     constructor(props) {
